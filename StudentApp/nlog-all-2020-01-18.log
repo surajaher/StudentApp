@@ -1,0 +1,19 @@
+2020-01-18 11:34:18.3401|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 11:36:08.0719|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 11:36:52.0300|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 11:36:54.2496|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 11:41:52.6202|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 12:08:15.8170|WARN|Microsoft.AspNetCore.Identity.UserManager|User 042061cd-447a-463f-b030-c3df89300ac3 password validation failed: PasswordRequiresDigit;PasswordRequiresUpper.
+2020-01-18 12:14:32.0444|WARN|Microsoft.AspNetCore.Identity.UserManager|Invalid password for user 36f13763-b939-400a-888e-a1e51d2977d0.
+2020-01-18 12:14:32.1995|WARN|Microsoft.AspNetCore.Identity.SignInManager|User 36f13763-b939-400a-888e-a1e51d2977d0 failed to provide the correct password.
+2020-01-18 12:18:13.9921|WARN|Microsoft.AspNetCore.Identity.UserManager|User aaf888e9-af59-4063-b220-e6678c109a59 validation failed: DuplicateUserName.
+2020-01-18 12:49:44.4948|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 12:50:22.1415|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 12:51:25.8853|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 12:55:27.9467|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 12:56:05.2063|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 12:58:11.4064|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 13:02:23.6013|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 13:05:53.8618|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 13:07:23.0027|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-18 13:08:04.3532|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.

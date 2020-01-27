@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\StudentApp\StudentAppDL\bin\Debug\netcoreapp3.1\StudentAppDL.deps.json
+C:\Users\Admin\source\repos\StudentApp\StudentAppDL\bin\Debug\netcoreapp3.1\StudentAppDL.dll
+C:\Users\Admin\source\repos\StudentApp\StudentAppDL\bin\Debug\netcoreapp3.1\StudentAppDL.pdb
+C:\Users\Admin\source\repos\StudentApp\StudentAppDL\bin\Debug\netcoreapp3.1\StudentAppBL.dll
+C:\Users\Admin\source\repos\StudentApp\StudentAppDL\bin\Debug\netcoreapp3.1\StudentAppBL.pdb
+C:\Users\Admin\source\repos\StudentApp\StudentAppDL\obj\Debug\netcoreapp3.1\StudentAppDL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\StudentApp\StudentAppDL\obj\Debug\netcoreapp3.1\StudentAppDL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StudentApp\StudentAppDL\obj\Debug\netcoreapp3.1\StudentAppDL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StudentApp\StudentAppDL\obj\Debug\netcoreapp3.1\StudentAppDL.csproj.CopyComplete
+C:\Users\Admin\source\repos\StudentApp\StudentAppDL\obj\Debug\netcoreapp3.1\StudentAppDL.dll
+C:\Users\Admin\source\repos\StudentApp\StudentAppDL\obj\Debug\netcoreapp3.1\StudentAppDL.pdb

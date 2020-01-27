@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\StudentApp\StudentAppBL\bin\Debug\netcoreapp3.1\StudentAppBL.deps.json
+C:\Users\Admin\source\repos\StudentApp\StudentAppBL\bin\Debug\netcoreapp3.1\StudentAppBL.dll
+C:\Users\Admin\source\repos\StudentApp\StudentAppBL\bin\Debug\netcoreapp3.1\StudentAppBL.pdb
+C:\Users\Admin\source\repos\StudentApp\StudentAppBL\obj\Debug\netcoreapp3.1\StudentAppBL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StudentApp\StudentAppBL\obj\Debug\netcoreapp3.1\StudentAppBL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StudentApp\StudentAppBL\obj\Debug\netcoreapp3.1\StudentAppBL.dll
+C:\Users\Admin\source\repos\StudentApp\StudentAppBL\obj\Debug\netcoreapp3.1\StudentAppBL.pdb

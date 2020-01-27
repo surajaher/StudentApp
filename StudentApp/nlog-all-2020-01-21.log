@@ -1,0 +1,7 @@
+2020-01-21 23:23:18.7066|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-21 23:26:30.1027|WARN|Microsoft.AspNetCore.Identity.UserManager|Invalid password for user b9ccb374-a81c-468a-929b-ec1f81e47d4b.
+2020-01-21 23:26:30.1256|WARN|Microsoft.AspNetCore.Identity.SignInManager|User b9ccb374-a81c-468a-929b-ec1f81e47d4b failed to provide the correct password.
+2020-01-21 23:26:30.4284|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-21 23:27:49.5642|WARN|Microsoft.AspNetCore.Identity.UserManager|Invalid password for user b9ccb374-a81c-468a-929b-ec1f81e47d4b.
+2020-01-21 23:27:49.5642|WARN|Microsoft.AspNetCore.Identity.SignInManager|User b9ccb374-a81c-468a-929b-ec1f81e47d4b failed to provide the correct password.
+2020-01-21 23:27:49.7586|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.

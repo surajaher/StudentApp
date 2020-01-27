@@ -1,0 +1,17 @@
+﻿@model StudentAppBL.Models.StudentsModel
+
+<form asp-controller="StudentSQL" asp-action="CreateStudent" method="post">
+    <div>
+
+        <label asp-for="@Model.id"></label>
+        <input asp-for="@Model.id" />
+
+        <label asp-for="@Model.name"></label>
+        <input asp-for="@Model.name" />
+
+        <label asp-for="@Model.address"></label>
+        <input asp-for="@Model.address" />
+        <button type="submit">Create</button>
+
+    </div>
+</form>
